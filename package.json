@@ -1,0 +1,23 @@
+{
+  "name": "yudhya",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/gowtham243-cs50/Yudhya-HAck#readme",
+  "bugs": {
+    "url": "https://github.com/gowtham243-cs50/Yudhya-HAck/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gowtham243-cs50/Yudhya-HAck.git"
+  },
+  "license": "ISC",
+  "author": "Artemis",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
